@@ -2,4 +2,4 @@
 
 [温控器 如何改变 温度](thermostat/change_temp.md)
 
-[温控器 英文说明书](thermostat/unilux_hvac_thermostat_manual.pdf)
+[温控器 英文说明书](/thermostat/unilux_hvac_thermostat_manual.pdf ':ignore')
