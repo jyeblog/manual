@@ -41,7 +41,7 @@
 * 不要超载（正常 7–8 成满）
 
 ✅ **推荐：**
-* 毛衣、内衣 $\rightarrow$ 用洗衣袋
+* 毛衣、内衣 -> 用洗衣袋
 
 ---
 
@@ -67,16 +67,16 @@
 | **Sensitive（敏感）** | 低温 | 精细化纤 |
 | **Time（定时）** | 手动时间 | 少量或补烘 |
 
-👉 **不确定怎么选** $\rightarrow$ **直接用「Cotton – Storage」**
+👉 **不确定怎么选** -> **直接用「Cotton – Storage」**
 
 ---
 
 #### ⑤ 可选功能（按需要）
 
-* **Extra Dry（更干）** $\rightarrow$ 毛巾、厚衣服
-* **GentleCare（低温）** $\rightarrow$ 精细、怕缩
-* **Anti-Crease（防皱 1–3 小时）** $\rightarrow$ 烘完不能马上拿衣服
-* **Start Delay（延时启动）** $\rightarrow$ 夜间电价、定时烘
+* **Extra Dry（更干）** -> 毛巾、厚衣服
+* **GentleCare（低温）** -> 精细、怕缩
+* **Anti-Crease（防皱 1–3 小时）** -> 烘完不能马上拿衣服
+* **Start Delay（延时启动）** -> 夜间电价、定时烘
 
 ✅ 功能要在**按 Start 前**选
 
@@ -87,7 +87,7 @@
 按 **Start / Pause**
 
 * 运行中可暂停开门加衣服
-* 冷凝水箱满或联网堵 $\rightarrow$ 机器会自动暂停并提示
+* 冷凝水箱满或联网堵 -> 机器会自动暂停并提示
 
 ---
 
@@ -148,9 +148,9 @@
 
 #### ❓机器中途停了
 
-* 水箱满 $\rightarrow$ 倒水
-* 过滤网堵 $\rightarrow$ 清理
-* 断电 $\rightarrow$ 来电后按 Start 继续
+* 水箱满 -> 倒水
+* 过滤网堵 -> 清理
+* 断电 -> 来电后按 Start 继续
 
 ---
 
